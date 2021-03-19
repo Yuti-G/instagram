@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 https://submissions.us-east-1.linodeobjects.com/android_university/-lqMxgRb.gif
 
-
+![](/inspart1.gif)
 
 ## Notes
 
