@@ -25,11 +25,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Please click this new updated link to view the gif, thanks!
 
-https://submissions.us-east-1.linodeobjects.com/android_university/-lqMxgRb.gif
-
-![](/inspart1.gif)
+https://submissions.us-east-1.linodeobjects.com/android_university/k0FNmAp9.gif
 
 ## Notes
 
