@@ -25,11 +25,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Please click this new updated link to view the gif, thanks!
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+https://submissions.us-east-1.linodeobjects.com/android_university/k0FNmAp9.gif
 
 ## Notes
 
